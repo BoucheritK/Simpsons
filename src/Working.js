@@ -20,7 +20,7 @@ class Newlogo extends Component {
         return (
             <div>
                 <img className={classCSS} src={this.props.url} alt={this.props.textImgMissing} />
-                <button onClick={() => { this.changeSpeed() }}>button</button>
+                <button onClick={() => { this.changeSpeed() }}>DO YOU LIKE ME </button>
             </div>
         )
     }
