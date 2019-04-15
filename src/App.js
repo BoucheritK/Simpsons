@@ -18,7 +18,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
          
-          <Newlogo url="https://risibank.fr/cache/stickers/d520/52080-full.png" classCSS="RoundSawBladeFast" textImgMissing="Round saw blade" />
+          <Newlogo url="https://risibank.fr/cache/stickers/d415/41516-full.png" classCSS="RoundSawBladeFast" textImgMissing="Round saw blade" />
           <h1 class="App-title">CHIRAC</h1>
           <p>
             Hello folks, welcome !!
